@@ -3,7 +3,7 @@
 
 ### 🚨 Requirements
 - FRAMEWORK: ReactJS (Unless otherwise agreed)
-- CODE: TypeScript (Big Bonus)
+- CODE: TypeScript
 
 ### 🖌️ Designs
 To complete the task bellow follow these designs:
