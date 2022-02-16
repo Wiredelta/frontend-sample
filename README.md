@@ -9,7 +9,7 @@
 To complete the task bellow follow these designs:
 **[LINK TO DESIGNS](https://www.npmjs.com/package/express)**
 
-### 🖌️ API
+### 🔗 API
 Use the follwoing API to complete the tasks: 
 **[LINK TO API](https://pokeapi.co/docs/v2)**
 
