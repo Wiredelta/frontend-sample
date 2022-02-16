@@ -9,6 +9,10 @@
 To complete the task bellow follow these designs:
 **[LINK TO DESIGNS](https://www.npmjs.com/package/express)**
 
+### 🖌️ API
+Use the follwoing API to complete the tasks: 
+**[LINK TO API](https://pokeapi.co/docs/v2)**
+
 ### 🏗️ Tasks
 - Create an application in which:
   - A list of Pokemons is displayed with paginated results (each item should contain: name, height, weight and image)
